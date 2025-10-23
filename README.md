@@ -50,8 +50,11 @@ You can run OpenRewrite:
 
 ---
 
-Let’s walk through a **real working example** of running **OpenRewrite (Maven plugin)** to upgrade a Spring Boot project from **2.x → 3.x**.
 
+
+
+
+Let’s walk through a **real working example** of running **OpenRewrite (Maven plugin)** to upgrade a Spring Boot project from **2.x → 3.x**.
 ---
 
 ## 🚀 Goal
